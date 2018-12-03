@@ -64,9 +64,9 @@ https://gitpitch.com/$USER/in-60-seconds
 
 <br>
 
-That's it for the *GitPitch In 60 Seconds* tutorial. If you inspired to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial).
+That's it for the *GitPitch In 60 Seconds* tutorial. If you are eager to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial).
 
-If you want to learn a little more about how the sample presentation for this tutorial was created, read on for additional details and tips.
+If you want to learn a little more about how the sample presentation for this tutorial was created - recommended - then read on for additional details and tips.
 
 <br>
 
