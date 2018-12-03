@@ -13,7 +13,7 @@ As a *GitHub* user you are probably familiar with the **README.md** convention. 
 
 GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention. This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slideshow deck that is available for sharing and presenting directly from [gitpitch.com](https://gitpitch.com).
 
-With that context, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
+With that context in mind, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
 
 ### Tutorial Step 1. Fork this Repository
 
