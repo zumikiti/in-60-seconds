@@ -36,7 +36,7 @@ There is only one *required* file in your repository to create a GitPitch slides
 
 > One of the many unique features of GitPitch is it's seamless integration with Git. Any file found in the repository can be used to create slide content within your slide deck, including *source-code* files and *image* files.
 
-### Tutorial Step 2. Congrats on creating your first GitPitch Slideshow Presentation!
+### Tutorial Step 2. Congratulations on creating your first GitPitch Slideshow Presentation!
 
 Following a *fork* of the repository a **PITCHME.md** markdown file will be found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
 
