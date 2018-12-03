@@ -11,7 +11,7 @@ presentation on *GitHub*, follow along with this short tutorial.
 
 As a *GitHub* user you are likely to be familiar with the **README.md** convention. A convention that automatically turns any **README.md** file found within a *GitHub* repository into nicely rendered project documentation.
 
-GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention. This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slide deck that is automatically available for sharing and presenting directly from [gitpitch.com](https://gitpitch.com).
+GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention. This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slide deck that is automatically available for sharing and presenting directly on [gitpitch.com](https://gitpitch.com).
 
 With knowledge of this new **PITCHME.md** convention in mind, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
 
