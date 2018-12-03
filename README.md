@@ -89,11 +89,10 @@ Once you have created your own GitPitch slideshow presentation URL it should ope
 
 ![Slideshow-In-60-Seconds](/images/in-60-seconds.jpg)
 
-Immediately you can [download](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Offline) 
+Immediately you can [download](https://gitpitch.com/docs/foundation-features/offline/) 
 your slideshow for offline presentation, 
-[print](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Printing) it as a 
-PDF document, or [share](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Sharing) 
-it on social media.
+[print](https://gitpitch.com/docs/foundation-features/pdf/) it as a 
+PDF document, or simply share a link to your presentation on social media.
 
 ### The Fastest Way from Idea to Presentation.
 
@@ -107,7 +106,7 @@ repo and start customizing the presentation markdown to reflect your needs.
 
 To view a live slideshow demonstration of a wide range of features try
 out the GitPitch [Kitchen Sink](https://gitpitch.com/gitpitch/kitchen-sink).
-To dig deeper, see the [GitPitch Wiki](https://github.com/gitpitch/gitpitch/wiki)
-for a detailed How-To.
+To dig deeper, see the [GitPitch Docs](https://gitpitch.com/docs) 
+for live, interactive feature guides.
 
 And don't forget to check out [GitPitch Pro Features](https://gitpitch.com/pro-features) to learn how you can achieve even more with GitPitch using **GitPitch Desktop**, **GitPitch Surveys**, and **GitPitch Security**.
