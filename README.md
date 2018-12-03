@@ -7,14 +7,28 @@ presentation, follow along with this short tutorial.
 
 > Tutorial also available for [GitLab](https://gitlab.com/gitpitch/in-60-seconds) and [Bitbucket](https://bitbucket.org/gitpitch/in-60-seconds) users.
 
-### Step 1. Create or Use-an-Existing Repository on GitHub
+### Introduction
 
-Using an existing account on GitHub, either:
+If you have worked with *GitHub* you are probably already familiar with the **README.md** convention. A convention that automatically turns any **README.md** file found within a Git repository into nicely rendered project documentation.
 
-- Create a new repository on GitHub and clone it to your local disk or 
-- Select one of your existing repositories on GitHub and make sure it has been cloned to your local disk
+GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention. This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a moderl, responsive slideshow presentation that is available for sharing and presenting directly from [gitpitch.com](https://gitpitch.com).
 
-The rest of this tutorial will show how by adding a markdown file to your chosen repository, [https://gitpitch.com](https://gitpitch.com) can read and automatically translate that file into an online slideshow presentation.
+### Step 1. Fork this Repository
+
+Forking this repository will create a new `in-60-seconds` repository under your own *GitHub* account. Within your new repository you will find the basic file structure for a GitPitch slideshow presentation:
+
+```
+.
+├── PITCHME.md
+├── PITCHME.yaml
+└── assets
+    ├── css
+    │   └── PITCHME.css
+    └── img
+        └── *.png, jpg, gif
+```
+
+To create a GitPitch slideshow presentation the only required file in your repository is a **PITCHME.md** markdown file. Additional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to customize your slide deck. The content of any other file found in the repository can be used to generate content within your slide deck, including source code files and image files.
 
 
 ### Step 2. Create a **PITCHME.md** file in the root directory of your Repository
