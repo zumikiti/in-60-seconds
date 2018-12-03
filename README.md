@@ -34,13 +34,13 @@ One of the many unique features of GitPitch is it's seamless integration with Gi
 
 ### Step 2. Congrats on creating your first GitPitch Slideshow Presentation!
 
-Following the *repository fork* in step 1. you automatically have a **PITCHME.md** in your new repository. This means that your first GitPitch slide deck is immediately available right here:
+Following the *repository fork* in step 1. a **PITCHME.md** markdown file is found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
 
 ```
 https://gitpitch.com/$USER/in-60-seconds
 ```
 
-Where you must substitute your *GitHub* account name for `$USER` in the slideshow URL.
+> You must substitute your *GitHub* account name for `$USER` in the slideshow URL.
 
 For example, the slideshow URL for the GitPitch In-60-Seconds sample presentation associate with the *gitpitch* GitHub account  is found here:
 
