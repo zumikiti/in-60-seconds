@@ -20,6 +20,10 @@
 ---?color=#E58537
 @title[Add A Little Imagination]
 
+@snap[north-west]
+### Add a Splash of @color[cyan](**Color**)
+@snapend
+
 @snap[west span-55]
 @ul[spaced text-white]
 - You will be amazed
@@ -40,5 +44,5 @@
 @snapend
 
 @snap[south span-100 fs-06]
-[Click here to jump straight into the live, interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
