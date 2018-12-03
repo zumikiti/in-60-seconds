@@ -15,7 +15,7 @@ GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME
 
 With knowledge of this new **PITCHME.md** convention in mind, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
 
-### Tutorial Step 1. Fork this Repository
+### Step 1. Fork this Repository
 
 Click the **Fork** button at the top of this page to create a fork of this repository.
 
@@ -36,7 +36,7 @@ There is only one *required* file in your repository to create a GitPitch slides
 
 > One of the many unique features of GitPitch is it's seamless integration with Git. Any file found in the repository can be used to create slide content within your slide deck, including *source-code* files and *image* files.
 
-### Tutorial Step 2. Congratulations on creating your first GitPitch Slideshow Presentation!
+### Step 2. Congratulations on creating your first GitPitch Slideshow Presentation!
 
 Following a *fork* of the repository a **PITCHME.md** markdown file will be found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
 
