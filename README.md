@@ -52,17 +52,11 @@ https://gitpitch.com/$USER/in-60-seconds
 
 > You must substitute your *GitHub* account name for `$USER` in the above slideshow URL.
 
-For example, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account is found here:
+When you open the URL for your own slide deck in the browser you should see an opening slide as follows:
 
-```
-https://gitpitch.com/gitpitch/in-60-seconds
-```
+![TUTORIAL](/assets/img/gitpitch-in-60-seconds-intro.png)
 
-As you can see I have substituted my *GitHub* account name - `gitpitch` - for `$USER` on the slideshow URL. To see the slide deck associated with the *gitpitch* GitHub account live, click on the following image:
-
-<a href="https://gitpitch.com/gitpitch/in-60-seconds">
-![TUTORIAL](assets/img/gitpitch-in-60-seconds-intro.png)
-</a>
+BTW, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account can be launched [here](https://gitpitch.com/gitpitch/in-60-seconds).
 
 <br>
 
