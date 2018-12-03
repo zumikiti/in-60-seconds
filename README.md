@@ -15,6 +15,8 @@ GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME
 
 ### Step 1. Fork this Repository
 
+Click the **Fork** button at the top of this page to create a fork of this repository.
+
 Forking this repository will create a new `in-60-seconds` repository under your own *GitHub* account. Within your new repository you will find the basic file structure for a GitPitch slideshow presentation:
 
 ```
