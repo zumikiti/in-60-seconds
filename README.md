@@ -32,8 +32,27 @@ To create a GitPitch slideshow presentation the only *required* file in your rep
 
 One of the many unique features of GitPitch is it's seamless integration with Git. Any file found in the repository can be used as slide content within your slide deck, including *source-code* files and *image* files.
 
+### Step 2. Congrats on creating your first GitPitch Slideshow Presentation!
 
-### Step 2. Create a **PITCHME.md** file in the root directory of your Repository
+Your first GitPitch slide deck is immediately available right here:
+
+```
+https://gitpitch.com/$USER/in-60-seconds
+```
+
+Where you must substitute your *GitHub* account name for `$USER` in the slideshow URL.
+
+For example, the slideshow URL for the GitPitch In-60-Seconds sample presentation is found here:
+
+```
+https://gitpitch.com/gitpitch/in-60-seconds
+```
+
+As you can see I have substituted my *GitHub* account name - `gitpitch` - for `$USER` on the slideshow URL. To launch the slide deck click on the following link, [here](https://gitpitch.com/gitpitch/in-60-seconds).
+
+
+
+### Step X. Create a **PITCHME.md** file in the root directory of your Repository
 
 Using your preferred code editor create a file called **PITCHME.md**, then add 
 and save the following Markdown content within that file:
