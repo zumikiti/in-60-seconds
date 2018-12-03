@@ -21,7 +21,7 @@
 @title[Add A Little Imagination]
 
 @snap[north-west]
-### Add a Splash of @color[cyan](**Color**)
+#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
 
 @snap[west span-55]
