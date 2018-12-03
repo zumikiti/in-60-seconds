@@ -54,7 +54,7 @@ As you can see I have substituted my *GitHub* account name - `gitpitch` - for `$
 
 > The following sections of this tutorial provide additional details and tips for GitPitch presentation authors. 
 
-### Learn More about PITCHME.md
+### The PITCHME.md Markdown File
 
 Here are some top tips about **PITCHME.md** markdown files that are used to create GitPitch slide decks:
 
