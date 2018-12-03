@@ -82,7 +82,13 @@ Here are some top tips about **PITCHME.md** markdown files that are used to crea
 1. The `---` markdown fragment acts as a slide delimiter that partitions your slideshow content
 
 
+<br>
 
+### Inside the PITCHME.md Markdown File
+
+xxx
+
+<br>
 
 ### The Fastest Way from Idea to Presentation.
 
