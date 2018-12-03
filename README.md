@@ -17,6 +17,8 @@ This new convention automatically turns any **PITCHME.md** file found within a *
 
 With knowledge of this new **PITCHME.md** convention in mind, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
 
+<br>
+
 ### Step 1. Fork this Repository
 
 Click the **Fork** button at the top of this page to create a fork of this repository.
