@@ -36,7 +36,7 @@ There is only one file required in your repository to create a GitPitch slidesho
 
 ### Step 2. Congrats on creating your first GitPitch Slideshow Presentation!
 
-Following the *repository fork* in step 1. a **PITCHME.md** markdown file will be found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
+Following a *fork* of the repository a **PITCHME.md** markdown file will be found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
 
 ```
 https://gitpitch.com/$USER/in-60-seconds
