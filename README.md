@@ -56,7 +56,7 @@ When you open the URL for your own slide deck in the browser you should see an o
 
 ![TUTORIAL](/assets/img/gitpitch-in-60-seconds-intro.png)
 
-> Note, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account can be launched [here](https://gitpitch.com/gitpitch/in-60-seconds).
+> For comparison purposes, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account can be launched [here](https://gitpitch.com/gitpitch/in-60-seconds).
 
 <br>
 
