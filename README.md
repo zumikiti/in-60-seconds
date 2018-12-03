@@ -60,7 +60,7 @@ When you open the URL for your own slide deck in the browser you should see an o
 
 <br>
 
-That's it for the *GitPitch In 60 Seconds* tutorial. If you are eager to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial).
+That's it for the first part of the *GitPitch In 60 Seconds* tutorial. If you are eager to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial).
 
 If you want to learn a little more about how the sample presentation for this tutorial was created - recommended - then read on for additional details and tips.
 
