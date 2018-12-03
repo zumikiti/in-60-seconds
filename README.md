@@ -44,7 +44,7 @@ Following a *fork* of the repository a **PITCHME.md** markdown file will be foun
 https://gitpitch.com/$USER/in-60-seconds
 ```
 
-> You must substitute your *GitHub* account name for `$USER` in the slideshow URL.
+> You must substitute your *GitHub* account name for `$USER` in the above slideshow URL.
 
 For example, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account  is found here:
 
@@ -60,7 +60,7 @@ Before reading ahead make sure you try out your own GitPitch slide deck at the f
 https://gitpitch.com/$USER/in-60-seconds
 ```
 
-> You must substitute your *GitHub* account name for `$USER` in the slideshow URL.
+> You must substitute your *GitHub* account name for `$USER` in the above slideshow URL.
 
 <br>
 
