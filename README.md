@@ -28,7 +28,9 @@ Forking this repository will create a new `in-60-seconds` repository under your 
         └── *.png, jpg, gif
 ```
 
-To create a GitPitch slideshow presentation the only required file in your repository is a **PITCHME.md** markdown file. Additional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to customize settings and styles for your slide deck. The content of any other file found in the repository can be used to generate content within your slide deck, including source code files and image files.
+To create a GitPitch slideshow presentation the only *required* file in your repository is a **PITCHME.md** markdown file. Additional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to customize settings and styles for your slide deck.
+
+One of the many unique features of GitPitch is it's seamless integration with Git. Any file found in the repository can be used as slide content within your slide deck, including *source-code* files and *image* files.
 
 
 ### Step 2. Create a **PITCHME.md** file in the root directory of your Repository
