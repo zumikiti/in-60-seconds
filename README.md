@@ -287,6 +287,6 @@ congratulations!
 
 While this short tutorial only introduces you to a small number of GitPitch
 features - *the tip of the proverbial GitPitch feature iceberg* - we hope what
-you have seen so far has made you eager to learn more. You can jump
-straight back into the *GitPitch Docs*
+you have seen so far has made you eager to learn more. Jump straight back
+into the *GitPitch Docs*
 [here](https://gitpitch.com/docs/getting-started/tutorial).
