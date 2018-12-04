@@ -89,7 +89,7 @@ The following sections will discuss the *markdown* used on each slide within
 the sample **PITCHME.md** file to help you quickly familiarize yourself with
 some basic capabilities of GitPitch.
 
-#### Sample Slide #1
+### Sample Slide #1
 
 Let's jump straight in. The *markdown* snippet for the first slide in the
 sample slide deck is shown here:
@@ -109,7 +109,7 @@ markdown heading syntax to render text on the slide. The text is automatically
 centered on the slide thanks to the default [automatic layout policies](https://gitpitch.com/docs/layout-features/automatic-slideshow-layout/)
 for GitPitch slide decks.
 
-#### Sample Slide #2
+### Sample Slide #2
 
 The *markdown* snippet for the second slide in the sample slide deck is shown
 here:
@@ -141,7 +141,7 @@ slide. **PITCHME.md** files can reference source-code, text, and image files
 and see the contents of those files rendered on any slide. Cool ;)
 
 
-#### Sample Slide #3
+### Sample Slide #3
 
 xxx
 
@@ -150,7 +150,7 @@ xxx
 xxx
 
 
-#### Sample Slide #4
+### Sample Slide #4
 
 xxx
 
@@ -159,7 +159,7 @@ xxx
 xxx
 
 
-#### Sample Slide #5
+### Sample Slide #5
 
 xxx
 
