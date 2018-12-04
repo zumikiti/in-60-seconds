@@ -50,7 +50,7 @@ Following a *fork* of the repository a **PITCHME.md** markdown file will be foun
 https://gitpitch.com/$USER/in-60-seconds
 ```
 
-> You must substitute your *GitHub* account name for `$USER` in the above slideshow URL.
+> You must substitute **your** *GitHub* account name for `$USER` in the above slideshow URL.
 
 Go ahead and open your new slideshow presentation in the browser now. When you open the URL for your slide deck you should see an opening slide that looks as follows:
 
