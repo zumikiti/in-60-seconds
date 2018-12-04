@@ -2,8 +2,8 @@
 
 # GitPitch In 60 Seconds
 
-To experience just how simple it is to create a GitPitch slideshow
-presentation on *GitHub*, follow along with this short tutorial.
+To experience the simplicity and power of the GitPitch markdown
+presentation service, follow along with this short tutorial.
 
 > Tutorial also available for [GitLab](https://gitlab.com/gitpitch/in-60-seconds) and [Bitbucket](https://bitbucket.org/gitpitch/in-60-seconds) users.
 
