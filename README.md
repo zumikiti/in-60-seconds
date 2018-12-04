@@ -52,7 +52,7 @@ https://gitpitch.com/$USER/in-60-seconds
 
 > You must substitute your *GitHub* account name for `$USER` in the above slideshow URL.
 
-Go ahead and open your new slideshow now. When you open the URL for your own slide deck in the browser you should see an opening slide that looks as follows:
+Go ahead and open your new slideshow presentation in the browser now. When you open the URL for your slide deck you should see an opening slide that looks as follows:
 
 ![TUTORIAL](/assets/img/gitpitch-in-60-seconds-intro.png)
 
