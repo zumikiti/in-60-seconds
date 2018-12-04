@@ -9,7 +9,7 @@ presentation on *GitHub*, follow along with this short tutorial.
 
 ### Introduction
 
-As a *GitHub* user you are likely to be familiar with the **README.md** convention. A convention that automatically turns any **README.md** file found within a *GitHub* repository into nicely rendered project documentation.
+As a *GitHub* user you are probably familiar with the **README.md** convention. A convention that automatically turns any **README.md** file found within a *GitHub* repository into nicely rendered project documentation.
 
 GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention.
 
