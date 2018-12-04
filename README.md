@@ -130,7 +130,7 @@ This *markdown* snippet renders as follows:
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-2.png)
 
 This sample slide introduces the first use of a [slide delimiter](https://gitpitch.com/docs/getting-started/delimiters/). Slide
-delimiters are used to denote the boundary between consecutive slides in the
+delimiters are used to denote the starting point of each new slide in the
 deck.
 
 This sample slide also demonstrates a mixture of text and image content being
