@@ -277,7 +277,7 @@ advantage of a number of
 `span-100` and `headline` - to control the appearance of content displayed on
 the slide. As a presentation author this features gives you almost unlimited flexibility. The only limits are your own imagination!
 
-<hr>
+<br>
 
 ### The Fastest Way from Idea to Presentation.
 
