@@ -273,10 +273,9 @@ opacity so you can create the background effects you need.
 Again, if you look carefully at the sample *markdown* snippet for this slide
 you can see that the `@snap` tag syntax introduced by *snap-layouts* is taking
 advantage of a number of
-[custom CSS styles](https://gitpitch.com/docs/themes/custom/) to control the
-appearance of text displayed on the slide. As a presentation author this
-features gives you almost unlimited flexibility. The only limits are your own
-imagination!
+[custom CSS styles](https://gitpitch.com/docs/themes/custom/) - such as
+`headline` and `span-100` - to control the appearance of text displayed on
+the slide. As a presentation author this features gives you almost unlimited flexibility. The only limits are your own imagination!
 
 <br>
 
