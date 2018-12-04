@@ -159,7 +159,7 @@ used here.
 We also see the first use of a relative path to a repository file -
 `assets/img/presentation.png` - to *render* the content of that file on the
 slide. **PITCHME.md** files can reference source-code, text, image, and
-even video files [pro only](https://gitpitch.com/docs/pro-features/bonus) and
+even video files [(pro only)](https://gitpitch.com/docs/pro-features/bonus) and
 see the contents of those files rendered on any slide. Cool ;)
 
 
