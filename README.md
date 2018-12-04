@@ -298,7 +298,7 @@ you can see that the `@snap` tag syntax introduced by *snap-layouts* is taking
 advantage of a number of
 [custom CSS styles](https://gitpitch.com/docs/themes/custom/) - such as
 `span-100` and `headline` - to control the appearance of content displayed on
-the slide. As a presentation author this features gives you almost unlimited flexibility. The only limits are your own imagination!
+the slide. As a presentation author this features gives you almost unlimited flexibility to create slide decks that truly reflect your product or brand.
 
 <br>
 
