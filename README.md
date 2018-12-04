@@ -104,8 +104,10 @@ That *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
 
-xxx
-
+As you can see, this slide couldn't be much simpler. The slide uses standard
+markdown heading syntax to render text on the slide. The text is automatically
+centered on the slide thanks to the default [automatic layout policies](https://gitpitch.com/docs/layout-features/automatic-slideshow-layout/)
+for GitPitch slide decks.
 
 #### Slide #2
 
