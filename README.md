@@ -93,7 +93,7 @@ xxx
 
 xxx
 
-![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-4.png)
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-4.gif)
 
 xxx
 
