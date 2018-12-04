@@ -79,10 +79,13 @@ Here are some top tips about **PITCHME.md** markdown files that are used to crea
 
 ### Inside the PITCHME.md Markdown File
 
-The sample **PITCHME.md"** within this repository results in a slide deck with
-just 5 slides. Each slide introduces an important concept while demonstrating
-the simplicity and combined power of *GitHub Flavored Markdown* and
+The sample **PITCHME.md** within this repository is automatically rendered
+as a slide deck with just 5 slides. Each slide introduces an important concept
+while demonstrating the simplicity and combined power of
+*GitHub Flavored Markdown* and
 [GitPitch Markdown](https://gitpitch.com/docs/markdown-features).
+
+#### PITCHME.md Slide #1
 
 xxx
 
