@@ -261,7 +261,7 @@ video, color, gradients, and even
 Beyond delimiters, this sample slide also demonstrates the use of a hugely
 popular GitPitch feature known as
 [Markdown Fragments](https://gitpitch.com/docs/markdown-features/fragments/).
-Fragments can be used to reveal individual elements on a slide one-by-one. As distinct to revealing all elements on the slide at once. In this case we are
+Fragments can be used to reveal individual elements on a slide one-by-one. As distinct to revealing all elements on the slide at once. In this case, we are
 revealing list items. But fragments can be applied to just about any content
 on your slides.
 
