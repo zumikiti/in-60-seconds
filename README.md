@@ -131,8 +131,15 @@ This *markdown* snippet renders as follows:
 
 This sample slide introduces the first use of a [slide delimiter](https://gitpitch.com/docs/getting-started/delimiters/). Slide
 delimiters are used to denote the starting point of each new slide in the
-deck. This sample slide also demonstrates a mixture of text and image content being
-rendered on the slide. Again, only standard markdown syntax is being used here.
+deck. This sample slide also demonstrates a mixture of text and image content
+being rendered on the slide. Again, only standard markdown syntax is being
+used here.
+
+We also see the first use of a relative path to a repository file -
+`assets/img/presentation.png` - to *render* the content of that file on the
+slide. **PITCHME.md** files can reference source-code, text, and image files
+and see the contents of those files rendered on any slide. Cool ;)
+
 
 #### Sample Slide #3
 
