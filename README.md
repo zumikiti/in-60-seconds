@@ -143,7 +143,24 @@ and see the contents of those files rendered on any slide. Cool ;)
 
 ### Sample Slide #3
 
-xxx
+The *markdown* snippet for the third slide in the sample slide deck is shown
+here:
+
+```
+
+---
+
+@snap[west span-50]
+## Customize Slide Content Layout
+@snapend
+
+@snap[east span-50]
+![](assets/img/presentation.png)
+@snapend
+
+```
+
+This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
 
