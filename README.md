@@ -72,7 +72,7 @@ Here are some top tips about **PITCHME.md** markdown files that are used to crea
 1. The **PITCHME.md** file name is case sensitive
 1. The **PITCHME.md** file content is standard GitHub Flavored Markdown
 1. The **PITCHME.md** file content also supports [GitPitch Markdown Shortcuts](https://gitpitch.com/docs/markdown-features)
-1. The `---` markdown fragment acts as a slide delimiter that partitions your slideshow content
+1. The `---` markdown fragment acts as a [slide delimiter](https://gitpitch.com/docs/getting-started/delimiters/) that partitions your slideshow content
 
 
 <br>
@@ -128,8 +128,12 @@ This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-2.png)
 
-xxx
+This sample slide introduces the first use of a [slide delimiter](https://gitpitch.com/docs/getting-started/delimiters/). Slide
+delimiters are used to denote the boundary between consecutive slides in the
+deck.
 
+This sample slide also demonstrates a mixture of text and image content being
+rendered on the slide. Again, only standard markdown syntax is being used here.
 
 #### Sample Slide #3
 
