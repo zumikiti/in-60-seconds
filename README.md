@@ -279,13 +279,14 @@ the slide. As a presentation author this features gives you almost unlimited fle
 
 <hr>
 
-And that brings us to the end of our whirlwind tour of what's inside the
-**PITCHME.md** markdown file for our sample slide deck. If you made it this far,
-congratulations! And I hope what you have seen has made you eager to learn
-more. If so, you can jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial).
-
-<br>
-
 ### The Fastest Way from Idea to Presentation.
 
-xxx
+And that brings us to the end of our whirlwind tour of what's inside the
+**PITCHME.md** markdown file for our sample slide deck. If you made it this far,
+congratulations!
+
+While this short tutorial only introduces you to a small number of GitPitch
+features - *the tip of the proverbial feture iceberg* - we hope what you have
+seen so far has made you eager to learn more. If so, you can jump straight
+back into the *GitPitch Docs*, click
+[here](https://gitpitch.com/docs/getting-started/tutorial).
