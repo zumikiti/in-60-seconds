@@ -225,8 +225,20 @@ follows:
 ---?color=#E58537
 ```
 
-xxx
+As noted earlier, slide delimiters are used to denote the starting point of
+each new slide in the deck. But they can also be used to activate a whole lot
+of slide-specific features. In this example, we are using
+[color delimiter syntax](https://gitpitch.com/docs/rich-media-features/color-backgrounds/) to
+assigned a custom background color for our sample slide. This is just the
+tip of the iceberg as *delimiters* can be used to render images, video, color,
+gradients, and even source-code on slides.
 
+Beyond delimiters, this sample also demonstrates the use of a hugely popular
+GitPitch feature known as
+[Markdown Fragments](https://gitpitch.com/docs/markdown-features/fragments/).
+Fragments can be used to reveal individual elements on a slide one-by-one. As distinct to revealing all elements on the slide at once. In this case we are
+revealing list items. But fragments can be applied to just about any content
+on your slides.
 
 ### Sample Slide #5
 
