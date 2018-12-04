@@ -9,13 +9,18 @@ presentation on *GitHub*, follow along with this short tutorial.
 
 ### Introduction
 
-As a *GitHub* user you are probably familiar with the **README.md** convention. A convention that automatically turns any **README.md** file found within a *GitHub* repository into nicely rendered project documentation.
+As a *GitHub* user you are probably familiar with the **README.md** convention.
+A convention that automatically turns any **README.md** file found within a
+*GitHub* repository into nicely rendered project documentation.
 
-GitPitch introduces a brand new convention for all *GitHub* users, the **PITCHME.md** convention.
+GitPitch introduces a brand new convention for all *GitHub* users, the
+**PITCHME.md** convention.
 
-This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slide deck that is automatically available for sharing and presenting directly on [gitpitch.com](https://gitpitch.com).
+This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slide deck that is automatically available for sharing and presenting directly on
+[gitpitch.com](https://gitpitch.com).
 
-With knowledge of this new **PITCHME.md** convention in mind, let's jump straight into the *GitPitch In 60 Seconds* tutorial.
+With knowledge of this new **PITCHME.md** convention in mind, let's jump
+straight into the *GitPitch In 60 Seconds* tutorial.
 
 <br>
 
@@ -23,7 +28,9 @@ With knowledge of this new **PITCHME.md** convention in mind, let's jump straigh
 
 Create a fork of this repository.
 
-Forking this repository will create a new `in-60-seconds` repository under your own *GitHub* account. Within your new repository you will find the basic file structure for a GitPitch slideshow presentation:
+Forking this repository will create a new `in-60-seconds` repository under
+your own *GitHub* account. Within your new repository you will find the basic
+file structure for a GitPitch slideshow presentation:
 
 ```
 .
@@ -36,15 +43,22 @@ Forking this repository will create a new `in-60-seconds` repository under your 
         └── *.png, jpg, gif
 ```
 
-Only one file is *required* to create a GitPitch slideshow presentation, a **PITCHME.md** markdown file. This is the file where you add the markdown content for your slides. Optional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to activate custom settings and styles for your slide deck.
+Only one file is *required* to create a GitPitch slideshow presentation, a
+**PITCHME.md** markdown file. This is the file where you add the markdown
+content for your slides. Optional files, such as **PITCHME.yaml** and
+**PITCHME.css** can be added to activate custom settings and styles for your
+slide deck.
 
-Having *forked* this repository you are now ready to move on to step 2. in this *GitPitch In 60 Seconds* tutorial.
+Having *forked* this repository you are now ready to move on to step 2. in this
+*GitPitch In 60 Seconds* tutorial.
 
 <br>
 
 ### Step 2. Congrats on creating your first GitPitch Slideshow Presentation!
 
-Following a *fork* of the repository a **PITCHME.md** markdown file will be found in your new repository. This means that your first GitPitch slide deck is immediately available at the following URL:
+Following a *fork* of the repository a **PITCHME.md** markdown file will be
+found in your new repository. This means that your first GitPitch slide deck
+is immediately available at the following URL:
 
 ```
 https://gitpitch.com/$USER/in-60-seconds
@@ -52,7 +66,9 @@ https://gitpitch.com/$USER/in-60-seconds
 
 > You must substitute **your** *GitHub* account name for `$USER` in the above slideshow URL.
 
-Go ahead and open your new slideshow presentation in the browser now. When you open the URL for your slide deck you should see an opening slide that looks as follows:
+Using **your** slideshow URL, go ahead and open your new slide deck in the
+browser now. When you open your slide deck you should see the first sample
+slide that looks as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
 
@@ -60,13 +76,18 @@ Go ahead and open your new slideshow presentation in the browser now. When you o
 
 <br>
 
-That's it for the first part of the *GitPitch In 60 Seconds* tutorial. If you are eager to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial). But if you want to learn a little more about how the sample presentation for this tutorial was created - *and that's strongly recommended* - then read on for additional details and tips.
+That's it for the first part of the *GitPitch In 60 Seconds* tutorial. If you
+are eager to jump straight back into the *GitPitch Docs*, click [here](https://gitpitch.com/docs/getting-started/tutorial). But if you want to
+learn a little more about how the sample presentation for this tutorial was
+created - *and that's strongly recommended* - then read on for additional
+details and tips.
 
 <br>
 
 ### The PITCHME.md Markdown File
 
-Here are some top tips about **PITCHME.md** markdown files that are used to create GitPitch slide decks:
+Here are some top tips about **PITCHME.md** markdown files that are used to
+create GitPitch slide decks:
 
 1. The **PITCHME.md** file name is a new convention introduced by GitPitch
 1. The **PITCHME.md** file name is case sensitive
