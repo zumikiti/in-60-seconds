@@ -311,5 +311,5 @@ congratulations!
 While this short tutorial only introduces you to a small number of available
 [GitPitch features](https://gitpitch.com/features) we hope what
 you have seen so far has made you eager to learn more. Now is your chance to
-jump straight back into the docs
+jump straight back into the interactive feature guides
 [here](https://gitpitch.com/docs/getting-started/tutorial).
