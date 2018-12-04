@@ -281,8 +281,8 @@ the slide. As a presentation author this features gives you almost unlimited fle
 
 ### The Fastest Way from Idea to Presentation.
 
-And that brings us to the end of our whirlwind tour of what's inside the
-**PITCHME.md** markdown file for our sample slide deck. If you made it this far,
+And that brings us to the end of our whirlwind tour - the
+*GitPitch In 60 Seconds* tutorial. If you made it all the way to the end,
 congratulations!
 
 While this short tutorial only introduces you to a small number of GitPitch
