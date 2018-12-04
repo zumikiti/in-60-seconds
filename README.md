@@ -169,11 +169,11 @@ GitPitch features -
 [Snap Layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts).
 
 Traditional markdown presentation tools and services offer little if any control
-over the layout of content of slides. GitPitch gives you complete control over
-slide-content layout. The same kind of flexibility you enjoy when working with
-*drag-and-drop* tools like Powerpoint and Keynote. But powered by Markdown. The
-*snap-layouts* feature allows you to create unique slide designs to fit your
-specific needs.
+over the layout of content of slides. But GitPitch gives you complete control
+over slide-content layout. The same kind of flexibility you enjoy when working
+with *drag-and-drop* tools like Powerpoint and Keynote. But powered by Markdown.
+The *snap-layouts* feature allows you to create unique slide designs to fit
+your specific needs.
 
 If you look carefully at the sample *markdown* snippet for this slide you can
 see that the `@snap` tag syntax introduced by *snap-layouts* simply wraps
