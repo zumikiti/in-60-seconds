@@ -36,7 +36,7 @@ Forking this repository will create a new `in-60-seconds` repository under your 
         └── *.png, jpg, gif
 ```
 
-Only one file is *required* to create a GitPitch slideshow presentation, a **PITCHME.md** markdown file. This is the file where you add the markdown content for your slides. Optional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to customize settings and styles for your slide deck.
+Only one file is *required* to create a GitPitch slideshow presentation, a **PITCHME.md** markdown file. This is the file where you add the markdown content for your slides. Optional files, such as **PITCHME.yaml** and **PITCHME.css** can be added to activate custom settings and styles for your slide deck.
 
 Having *forked* this repository you are now ready to move on to step 2. in this *GitPitch In 60 Seconds* tutorial.
 
