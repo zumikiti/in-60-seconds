@@ -226,7 +226,7 @@ follows:
 ```
 
 As noted earlier, slide delimiters are used to denote the starting point of
-each new slide in the deck. But they can also be used to activate a whole lot
+each new slide in the deck. But they can also be used to activate a whole range
 of slide-specific features. In this example, we are using
 [color delimiter syntax](https://gitpitch.com/docs/rich-media-features/color-backgrounds/) to
 assigned a custom background color for our sample slide. This is just the
