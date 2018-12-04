@@ -102,8 +102,8 @@ create GitPitch slide decks:
 
 The sample **PITCHME.md** within this repository is automatically rendered
 as a slide deck with just 5 slides. Each slide introduces an important concept
-while demonstrating the simplicity and combined power of
-*GitHub Flavored Markdown* and
+while demonstrating the simplicity and power of
+*GitHub Flavored Markdown* combined with 
 [GitPitch Markdown](https://gitpitch.com/docs/markdown-features).
 
 The following sections will discuss the *markdown* used on each slide within
