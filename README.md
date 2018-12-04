@@ -258,8 +258,8 @@ tip of the iceberg as *delimiters* can be used to render background images,
 video, color, gradients, and even
 [source-code](https://gitpitch.com/docs/code-features/presenting/) on slides.
 
-Beyond delimiters, this sample also demonstrates the use of a hugely popular
-GitPitch feature known as
+Beyond delimiters, this sample slide also demonstrates the use of a hugely
+popular GitPitch feature known as
 [Markdown Fragments](https://gitpitch.com/docs/markdown-features/fragments/).
 Fragments can be used to reveal individual elements on a slide one-by-one. As distinct to revealing all elements on the slide at once. In this case we are
 revealing list items. But fragments can be applied to just about any content
