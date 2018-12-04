@@ -164,7 +164,7 @@ This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
 
-Wow! What just happened? This sample slide introduces one of the most exciting
+What just happened? This sample slide introduces one of the most exciting
 GitPitch features -
 [Snap Layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts).
 
