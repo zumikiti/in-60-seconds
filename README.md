@@ -85,6 +85,10 @@ while demonstrating the simplicity and combined power of
 *GitHub Flavored Markdown* and
 [GitPitch Markdown](https://gitpitch.com/docs/markdown-features).
 
+The following sections will discuss the *markdown* used on each slide within
+the sample **PITCHME.md** file to help you quickly familiarize yourself with
+some basic capabilities of GitPitch.
+
 #### Slide #1
 
 xxx
