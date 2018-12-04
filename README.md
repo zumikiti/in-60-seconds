@@ -191,7 +191,7 @@ What just happened? This sample slide introduces one of the most exciting
 and unique GitPitch features -
 [Snap Layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts).
 
-Traditional markdown presentation tools and services offer little control
+Most markdown presentation tools and services offer little control
 over the layout of content on slides. But GitPitch gives you complete control
 over slide-content layout. The same kind of flexibility you may have enjoyed
 when working with old fashioned *drag-and-drop* tools like Powerpoint and
