@@ -242,7 +242,7 @@ on your slides.
 
 ### Sample Slide #5
 
-The *markdown* snippet for the fourth slide in the sample slide deck is shown
+The *markdown* snippet for this final slide in the sample slide deck is shown
 here:
 
 ```
