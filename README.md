@@ -212,7 +212,17 @@ This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-4.gif)
 
-xxx
+I thought it was time we added a little *sparkle* and a splash of color to our
+slide deck ;-)
+
+This sample slide demonstrates a number of great features. We have already
+been introduced to
+[snap layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts)
+so we will focus on what's new on this slide.
+
+
+
+
 
 ### Sample Slide #5
 
