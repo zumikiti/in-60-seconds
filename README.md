@@ -177,7 +177,7 @@ your specific needs.
 
 If you look carefully at the sample *markdown* snippet for this slide you can
 see that the `@snap` tag syntax introduced by *snap-layouts* simply wraps
-around standard markdown slide content.
+blocks of standard markdown slide content. It couldn't be easier!
 
 
 ### Sample Slide #4
