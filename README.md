@@ -100,7 +100,7 @@ deck is shown here:
 
 ```
 
-That *markdown* snippet renders as follows:
+This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
 
@@ -111,7 +111,20 @@ for GitPitch slide decks.
 
 #### Slide #2
 
-xxx
+The *markdown* for the second slide in the sample slide deck is shown here:
+
+```
+
+---
+
+## Add Some Slide Candy
+
+![](assets/img/presentation.png)
+
+
+```
+
+This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-2.png)
 
