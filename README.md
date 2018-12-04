@@ -108,7 +108,7 @@ while demonstrating the simplicity and power of
 
 The following sections discuss the *markdown* snippets used on each slide
 within the sample **PITCHME.md** file to help you quickly familiarize yourself
-with some fundamental GitPitch capabilities.
+with some of the most fundamental GitPitch capabilities.
 
 ### Sample Slide #1
 
