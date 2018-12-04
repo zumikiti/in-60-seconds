@@ -107,8 +107,9 @@ concepts while demonstrating the simplicity and power of
 [GitPitch Markdown Shortcuts + Widgets](https://gitpitch.com/docs/markdown-features).
 
 The following sections discuss the *markdown* snippets used on each slide
-within the sample **PITCHME.md** file to help you quickly familiarize yourself
-with some of the most fundamental and *fun* GitPitch capabilities.
+within the sample **PITCHME.md** file in this repository to help you quickly
+familiarize yourself with some of the most fundamental and *fun* GitPitch
+capabilities.
 
 ### Sample Slide #1
 
