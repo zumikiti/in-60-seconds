@@ -19,7 +19,7 @@ GitPitch introduces a brand new convention for all *GitHub* users, the
 This new convention automatically turns any **PITCHME.md** file found within a *GitHub* repository into a modern, responsive slide deck that is automatically available for sharing and presenting directly on
 [gitpitch.com](https://gitpitch.com).
 
-With knowledge of this new **PITCHME.md** convention in mind, let's jump
+With awareness of this new **PITCHME.md** convention in mind, let's jump
 straight into the *GitPitch In 60 Seconds* tutorial.
 
 <br>
