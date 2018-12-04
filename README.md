@@ -277,7 +277,7 @@ advantage of a number of
 `span-100` and `headline` - to control the appearance of content displayed on
 the slide. As a presentation author this features gives you almost unlimited flexibility. The only limits are your own imagination!
 
-<br>
+<hr>
 
 And that brings us to the end of our whirlwind tour of what's inside the
 **PITCHME.md** markdown file for our sample slide deck. If you made it this far,
