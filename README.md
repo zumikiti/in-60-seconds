@@ -165,7 +165,7 @@ This *markdown* snippet renders as follows:
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
 
 What just happened? This sample slide introduces one of the most exciting
-GitPitch features -
+and unique GitPitch features -
 [Snap Layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts).
 
 Traditional markdown presentation tools and services offer little if any control
