@@ -131,9 +131,7 @@ This *markdown* snippet renders as follows:
 
 This sample slide introduces the first use of a [slide delimiter](https://gitpitch.com/docs/getting-started/delimiters/). Slide
 delimiters are used to denote the starting point of each new slide in the
-deck.
-
-This sample slide also demonstrates a mixture of text and image content being
+deck. This sample slide also demonstrates a mixture of text and image content being
 rendered on the slide. Again, only standard markdown syntax is being used here.
 
 #### Sample Slide #3
