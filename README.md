@@ -54,7 +54,7 @@ https://gitpitch.com/$USER/in-60-seconds
 
 Go ahead and open your new slideshow presentation in the browser now. When you open the URL for your slide deck you should see an opening slide that looks as follows:
 
-![TUTORIAL](/assets/img/gitpitch-in-60-seconds-intro.png)
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
 
 > For comparison purposes, the slideshow URL for the GitPitch In-60-Seconds sample presentation associated with the *gitpitch* GitHub account can be launched [here](https://gitpitch.com/gitpitch/in-60-seconds).
 
@@ -78,6 +78,26 @@ Here are some top tips about **PITCHME.md** markdown files that are used to crea
 <br>
 
 ### Inside the PITCHME.md Markdown File
+
+xxx
+
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
+
+xxx
+
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-2.png)
+
+xxx
+
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
+
+xxx
+
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-4.png)
+
+xxx
+
+![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-5.png)
 
 xxx
 
