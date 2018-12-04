@@ -91,8 +91,8 @@ some basic capabilities of GitPitch.
 
 #### Sample Slide #1
 
-Let's jump straight in. The *markdown* for the first slide in the sample slide
-deck is shown here:
+Let's jump straight in. The *markdown* snippet for the first slide in the
+sample slide deck is shown here:
 
 ```
 
@@ -111,7 +111,8 @@ for GitPitch slide decks.
 
 #### Sample Slide #2
 
-The *markdown* for the second slide in the sample slide deck is shown here:
+The *markdown* snippet for the second slide in the sample slide deck is shown
+here:
 
 ```
 
