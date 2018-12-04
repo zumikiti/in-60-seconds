@@ -290,7 +290,8 @@ of slide *delimiters*. This slide demonstrates the use of
 [background image delimiter syntax](https://gitpitch.com/docs/image-features/background/) that can be used
 to inject an image as a background for any slide. Additional parameters on
 this *image* delimiter can be used to position, size, scale, and even control
-opacity so you can create the background effects you need.
+opacity [(pro only)](https://gitpitch.com/docs/pro-features/bonus) so you can
+create the background effects you need.
 
 Again, if you look carefully at the sample *markdown* snippet for this slide
 you can see that the `@snap` tag syntax introduced by *snap-layouts* is taking
