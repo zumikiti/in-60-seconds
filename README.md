@@ -263,7 +263,7 @@ This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-5.png)
 
-The previous sample slide introduced us to the amazing power and flexibility
+The previous sample slide introduced us to the power and flexibility
 of slide *delimiters*. This slide demonstrates the use of
 [background image delimiter syntax](https://gitpitch.com/docs/image-features/background/) that can be used
 to inject an image as a background for any slide.
