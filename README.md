@@ -230,8 +230,8 @@ each new slide in the deck. But they can also be used to activate a whole range
 of slide-specific features. In this example, we are using
 [color delimiter syntax](https://gitpitch.com/docs/rich-media-features/color-backgrounds/) to
 assign a custom background color for our sample slide. This is just the
-tip of the iceberg as *delimiters* can be used to render images, video, color,
-gradients, and even source-code on slides.
+tip of the iceberg as *delimiters* can be used to render background images,
+video, color, gradients, and even source-code on slides.
 
 Beyond delimiters, this sample also demonstrates the use of a hugely popular
 GitPitch feature known as
@@ -242,11 +242,39 @@ on your slides.
 
 ### Sample Slide #5
 
-xxx
+The *markdown* snippet for the fourth slide in the sample slide deck is shown
+here:
+
+```
+
+---?image=assets/img/presenter.jpg
+
+@snap[north span-100 headline]
+## Now It's Your Turn
+@snapend
+
+@snap[south span-100 fs-06]
+[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+@snapend
+
+```
+
+This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-5.png)
 
-xxx
+The previous sample slide introduced us to the amazing power and flexibility
+of slide *delimiters*. This slide demonstrates the use of
+[background image delimiter syntax](https://gitpitch.com/docs/image-features/background/) that can be used
+to inject an image as a background for any slide.
+
+Again, if you look carefully at the sample *markdown* snippet for this slide
+you can see that the `@snap` tag syntax introduced by *snap-layouts* is taking
+advantage of a number of
+[custom CSS styles](https://gitpitch.com/docs/themes/custom/) to control the
+appearance of text displayed on the slide. As a presentation author this
+features gives you almost unlimited flexibility. The only limits are your own
+imagination!
 
 <br>
 
