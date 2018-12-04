@@ -91,9 +91,23 @@ some basic capabilities of GitPitch.
 
 #### Slide #1
 
-xxx
+Let's jump straight in. The *markdown* for the first slide in the sample slide
+deck is shown here:
+
+```
+
+# Let's Get Started
+
+```
+
+That *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
+
+xxx
+
+
+#### Slide #2
 
 xxx
 
@@ -101,11 +115,26 @@ xxx
 
 xxx
 
+
+#### Slide #3
+
+xxx
+
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
 
 xxx
 
+
+#### Slide #4
+
+xxx
+
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-4.gif)
+
+xxx
+
+
+#### Slide #5
 
 xxx
 
