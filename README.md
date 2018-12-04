@@ -85,7 +85,7 @@ while demonstrating the simplicity and combined power of
 *GitHub Flavored Markdown* and
 [GitPitch Markdown](https://gitpitch.com/docs/markdown-features).
 
-#### PITCHME.md Slide #1
+#### Slide #1
 
 xxx
 
