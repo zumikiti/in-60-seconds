@@ -68,7 +68,7 @@ https://gitpitch.com/$USER/in-60-seconds
 
 Using **your** slideshow URL, go ahead and open your new slide deck in the
 browser now. When you open your slide deck you should see the first sample
-slide that should look a lot like this:
+slide that should look a lot like this screenshot:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-1.png)
 
