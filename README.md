@@ -71,13 +71,18 @@ Here are some top tips about **PITCHME.md** markdown files that are used to crea
 1. The **PITCHME.md** file name is a new convention introduced by GitPitch
 1. The **PITCHME.md** file name is case sensitive
 1. The **PITCHME.md** file content is standard GitHub Flavored Markdown
-1. The **PITCHME.md** file content also supports [GitPitch Markdown Shortcuts](https://gitpitch.com/docs/markdown-features) 
+1. The **PITCHME.md** file content also supports [GitPitch Markdown Shortcuts](https://gitpitch.com/docs/markdown-features)
 1. The `---` markdown fragment acts as a slide delimiter that partitions your slideshow content
 
 
 <br>
 
 ### Inside the PITCHME.md Markdown File
+
+The sample presentation within this tutorial has just 5 slides. Each slide
+introduces an important concept while demonstrating the simplicity and
+combined power of *GitHub Flavored Markdown* and
+[GitPitch Markdown](https://gitpitch.com/docs/markdown-features).
 
 xxx
 
