@@ -164,7 +164,18 @@ This *markdown* snippet renders as follows:
 
 ![TUTORIAL](/doc/assets/gitpitch-in-60-seconds-3.png)
 
-xxx
+Wow! What just happened? This sample slide introduces one of the most exciting
+GitPitch features -
+[Snap Layouts](https://gitpitch.com/docs/layout-features/snap-position-layouts).
+
+Traditional markdown presentation tools and services offer little if any control
+over the layout of content of slides. GitPitch gives you complete control over
+slide-content layout allowing you to create custom slide designs to fit your
+specific needs.
+
+If you look carefully at the sample *markdown* snippet you can see that the
+`@snap` tag syntax introduced by *snap-layouts* simply wraps around standard
+markdown slide content.
 
 
 ### Sample Slide #4
