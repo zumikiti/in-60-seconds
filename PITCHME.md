@@ -4,7 +4,7 @@
 
 ## Add Some Slide Candy
 
-![](assets/img/presentation.png)
+![](img/IMG_3871.jpg)
 
 ---
 @title[Customize Slide Layout]
